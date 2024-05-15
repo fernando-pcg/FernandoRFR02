@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/fernando-rubier-figuereo-roa-8b2988161/">Fernando Figuereo</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/fernandorfr02//">Fernando Figuereo</a></b>
         </samp>
 </h3>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/fernando-rubier-figuereo-roa-8b2988161" target="_blank">
+ <a href="https://www.linkedin.com/in/fernandorfr02/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fernando"/>
  </a>
  <a href="https://instagram.com/fernanfig" target="_blank">
