@@ -1,5 +1,5 @@
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/b1054938-ab9b-4a18-9590-bc9af7dae849.svg)](https://wakatime.com/@b1054938-ab9b-4a18-9590-bc9af7dae849)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -50,12 +50,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F3CE53?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Odoo](https://img.shields.io/badge/Odoo-9F2B68?style=for-the-badge&logo=odoo&logoColor=white)
 ![XML](https://img.shields.io/badge/Xml-593D88?style=for-the-badge&logo=xml&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
 
@@ -75,15 +78,25 @@
 
 <p align="center">
   <a href="https://github.com/fernandorfr02">
-    <img src="https://github-readme-stats-l5gy3fhn1-rubinkes-projects.vercel.app/api?username=FernandoRFR02&theme=radical" alt="Fernando Figuereo's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandorfr02&theme=radical&show_icons=true" alt="Fernando Figuereo's GitHub Grahp"/>
   </a>
 </p>
 
+<p align="center">
+ 
+</p>
+
 <a> 
-    <a href="https://github.com/fernandorfr02"><img alt="Fernando Figuereo's Github Stats" src="https://github-readme-stats-l5gy3fhn1-rubinkes-projects.vercel.app/api?username=FernandoRFR02&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Fernando Figuereo's Top Languages" src="https://github-readme-stats-l5gy3fhn1-rubinkes-projects.vercel.app/api?username=FernandoRFR02&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+     <a href="https://github.com/fernandorfr02">
+        <img src="https://github-readme-stats-mu-nine.vercel.app/api?username=FernandoRFR02&theme=radical&show_icons=true" alt="Fernando Figuereo's GitHub Contribution"/>
+        </a>
+<a href="https://github.com/fernandorfr02"><img alt="Fernando Figuereo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fernandorfr02&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Fernando Figuereo's Graph](https://github-readme-stats-l5gy3fhn1-rubinkes-projects.vercel.app/api?username=FernandoRFR02&custom_title=Fernando%20Figuereo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Fernando Figuereo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandorfr02&custom_title=Fernando%20Figuereo%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
+)
+
+
+
