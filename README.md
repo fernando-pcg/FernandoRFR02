@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img aling="left" alt="FernandoRFR02 Github Stats" src="https://github-readme-stats-4j8r0uq2q-rubinkes-projects.vercel.app/api?username=FernandoRFR02&show_icons=true&hide_border=true/>
+  <img aling="left" alt="FernandoRFR02 Github Stats" src="https://github-readme-stats-l5gy3fhn1-rubinkes-projects.vercel.app/api?username=FernandoRFR02&show_icons=true&hide_border=true"/>
 </details>
