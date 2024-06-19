@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Odoo application developer from <b>Dominican Republic</b> 」
+    「 I am a Odoo application developer from the <b>Dominican Republic</b> 」
     <br>
     <br>
   </samp>
